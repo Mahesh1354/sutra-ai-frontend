@@ -1,0 +1,16 @@
+{
+  "name": "Sutra AI",
+  "short_name": "Sutra",
+  "description": "Weaving knowledge into every response",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/sutra-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
